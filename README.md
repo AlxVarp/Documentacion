@@ -1,3 +1,3 @@
 # Documentacion
 
-[1] https://github.com/AlxVarp/Documentacion/blob/MODELACION_DEL_NEGOCIO.md
+[1]: https://github.com/AlxVarp/Documentacion/blob/master/MODELACION_DEL_NEGOCIO.md
